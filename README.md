@@ -2,7 +2,7 @@
 
 <h3>
 <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>
-Developed languages
+Languages ​​and Tools
 </h3>
 
 <div style="display: inline_block"><br>
